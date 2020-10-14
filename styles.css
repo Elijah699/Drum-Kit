@@ -10,11 +10,6 @@ h1 {
   text-shadow: 3px 0 #da0463;
 }
 
-footer {
-  color: #dbedf3;
-  font-family: sans-serif;
-}
-
 .w {
   background-image: url(images/tom1.png);
 }
@@ -77,4 +72,14 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+
+footer {
+  color: #dbedf3;
+  font-family: sans-serif;
+   position: fixed;
+    width: 100%;
+    height: auto;
+    bottom: 0;
+    font-size: 27px;
 }
